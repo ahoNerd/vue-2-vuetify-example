@@ -1,6 +1,8 @@
 # vue-2-vuetify-example
 
 ## Project setup
+
+### Installation
 ```
 npm install
 ```
@@ -22,3 +24,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Tutorial
+
+[ahonerd.com/vue-2-vuetify-example](https://ahonerd.com/vue-2-vuetify-example)
