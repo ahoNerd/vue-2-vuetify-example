@@ -39,13 +39,19 @@
     <v-main>
       <v-container fluid class="pa-4 pa-sm-6 pa-md-8">
         <router-view />
+        <aho-nerd />
       </v-container>
     </v-main>
   </v-app>
 </template>
 
 <script>
+import AhoNerd from "@/components/AhoNerd.vue";
+
 export default {
+  components: {
+    AhoNerd,
+  },
   data: () => ({
     drawer: null,
     navItems: [
