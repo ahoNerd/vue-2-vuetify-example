@@ -1,5 +1,9 @@
 # vue-2-vuetify-example
 
+## Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fbb43e09-209b-49ce-86fc-ac472c74f084/deploy-status)](https://app.netlify.com/sites/vue2-vuetify/deploys)
+
 ## Project setup
 
 ### Installation
